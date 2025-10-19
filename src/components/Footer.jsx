@@ -62,7 +62,7 @@ const Footer = () => {
             <ul className="space-y-3 sm:space-y-4">
               <li className="flex items-start space-x-3 justify-center sm:justify-start">
                 <MapPin className="w-4 h-4 sm:w-5 sm:h-5 text-red-600 dark:text-red-400 mt-0.5 flex-shrink-0" />
-                <span className="text-sm sm:text-base text-left">XJ5Q+6V5, Shikarpur</span>
+                <span className="text-sm sm:text-base text-left"> Shikarpur</span>
               </li>
               <li className="flex items-start space-x-3 justify-center sm:justify-start">
                 <Phone className="w-4 h-4 sm:w-5 sm:h-5 text-red-600 dark:text-red-400 mt-0.5 flex-shrink-0" />
@@ -70,7 +70,7 @@ const Footer = () => {
               </li>
               <li className="flex items-start space-x-3 justify-center sm:justify-start">
                 <Mail className="w-4 h-4 sm:w-5 sm:h-5 text-red-600 dark:text-red-400 mt-0.5 flex-shrink-0" />
-                <span className="text-sm sm:text-base break-all">info@scholarsmontessori.edu.pk</span>
+                <span className="text-sm sm:text-base break-all">info@example.com</span>
               </li>
             </ul>
           </div>
